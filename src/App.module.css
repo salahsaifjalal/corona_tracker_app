@@ -1,6 +1,11 @@
 body {
-    background-color: rgb(250, 250,250);
-  }
+  background-image: url("https://cdn.pixabay.com/photo/2020/06/19/12/56/coronavirus-5317369_960_720.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
   
   .container {
     display: flex;
